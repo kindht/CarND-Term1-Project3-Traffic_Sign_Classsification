@@ -1,5 +1,5 @@
 # 无人驾驶纳米学位 - 项目3 - 交通标志识别
-# CarND-Project3-Traffic_Sign_Recognition
+# CarND-Project3-Traffic_Sign_Classification
 
 [//]: # (Image References)
 
