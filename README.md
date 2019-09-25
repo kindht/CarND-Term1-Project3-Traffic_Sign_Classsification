@@ -1,4 +1,4 @@
-# 无人驾驶纳米学位 - 项目3 - 交通标志识别
+# 无人驾驶纳米学位 - 项目3 - 交通标志识别  
 # CarND-Project3-Traffic_Sign_Classification
 
 [//]: # (Image References)
@@ -7,7 +7,9 @@
 
 This is the 3rd project in the course of Self-Driving Car at Udacity
 
-The project used deep neural networks and convolutional neural networks to classify traffic signs
+The project used deep neural networks and convolutional neural networks to classify traffic signs.
+
+The project implemented classical **LeNet** Architecture using **TensorFlow**
 
 The steps involved in this project are the following:
 * Load the data set
