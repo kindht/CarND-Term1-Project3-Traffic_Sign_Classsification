@@ -239,6 +239,5 @@ Probably because the images I chose are all with high resolutions, the complicat
 Also recall that before I generated extra data , the accuracy of preditions for other 5 new images was just 60% or 80%, this proved that more data for training is also very critical.
 
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
-#### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
 
 
