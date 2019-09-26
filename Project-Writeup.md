@@ -42,7 +42,7 @@ The goals / steps of this project are the following:
 ---
 ### Writeup / README
 
-You're reading it! and here is a link to my [project code](https://github.com/kindht/CarND-Project3-Traffic-Sign-Recognition/blob/master/Traffic_Sign_Classifier-Final.ipynb)
+You're reading it! and here is a link to my [project code](https://github.com/kindht/CarND-Project3-Traffic_Sign_Classsification/blob/master/Traffic_Sign_Classifier-Final.ipynb)
 
 ### Data Set Summary & Exploration
 
